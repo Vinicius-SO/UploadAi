@@ -79,7 +79,7 @@ export function App() {
                   <SelectItem value='title'>Titulo do Youtube</SelectItem>
                   <SelectItem value='description'>Descrição do Youtube</SelectItem>
                 </SelectContent>
-              </Select>
+              </Select> 
             </div>
 
             <Separator/>
